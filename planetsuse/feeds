@@ -2106,8 +2106,8 @@ feed 30m https://www.fossadventures.com/feed/
 
 feed 30m https://robbinespu.github.io/feed/tags.suse.xml
     define_name Robbi Nespu
-    define_face https://robbinespu.github.io/logo.png
+    define_face rnm
     define_irc RNM
     define_connect RobbiNespu
-    define_member 1
+    #define_member 1
     define_lang en
